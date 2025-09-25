@@ -1,4 +1,12 @@
-## Hi there 👋
+👋 Hi, ich bin Jan – Projektleiter mit technischem Hintergrund und Web Front-End Developer.
+
+🚀 Ich spezialisiere mich auf agiles Projektmanagement (Scrum, Kanban, Servant Leadership) und digitale Produktentwicklung.
+
+💻 Aktuell erweitere ich mein Know-how in Scrum und moderner Webentwicklung: HTML, CSS (SCSS), JavaScript, Angular & TypeScript sowie UI/UX-Design mit Figma und cloudbasierte Datenbanken (Firebase, REST APIs).
+
+🤝 Mein Ziel ist es, technische Teams effektiv zu unterstützen, komplexe Projekte zu koordinieren und digitale Lösungen nutzerorientiert umzusetzen.
+
+📁 Mehr zu mir & meinen Projekten: [jan-gerardi.com](https://jan-gerardi.com/)
 
 <!--
 **JanGerardi/JanGerardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
